@@ -110,7 +110,6 @@ class SplashScreenActivity : AppCompatActivity() {
                         showRegisterLayout()
                     }
                 }
-
             })
     }
 
