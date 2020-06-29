@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Uber Clone</string>
+    <string name="lets_start_with_creating_your_account">Lets start with creating your account</string>
+    <string name="continue_text">Continue</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
 </resources>
